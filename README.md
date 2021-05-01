@@ -12,13 +12,9 @@ Below Improvements to be done in the Framework
 Pre-requisites
 ================================================================================================
 1. Java (v16)
-2. Appium desktop for windows (v1.20.2)
-3. Android SDK (API Level should be compatible with Android version)
-	A. https://en.wikipedia.org/wiki/Android_(operating_system)
-4. TestNG
-5. Maven
-6. Android Real Device
-7. Eclipse IDE 2021-03
+2. TestNG
+3. Maven
+4. Eclipse IDE 2021-03
 
 
 Maven dependencies : (https://mvnrepository.com/)
